@@ -1,0 +1,44 @@
+body{
+    background-color: #9f35d8;
+   
+}
+form{
+    background-color:white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 20px;
+  
+}
+form input{
+    width: 350px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: #eaedf0;
+    color: rgb(73, 32, 208);
+   
+}
+
+button{
+    text-align: center;
+    background-color: #7a66e0;
+    font-size: 20px;
+    width: 370px;
+    border: none;
+    padding: 10px;
+    color: white;
+    
+}
+button:hover{
+    background-color: #c0227e;
+   
+}
+h1,p{
+    text-align: center;
+}
+a{
+    color: blue;
+    font-size: 20px;
+}
